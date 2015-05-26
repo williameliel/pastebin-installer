@@ -1,4 +1,6 @@
+
 #Pastebin WP automated installation process, installs Wordpress with custom directory
+Download or Clone, change permissions to execute and run for ultimate WP installation experience.
 #Get latest Wordpress
 wget http://wordpress.org/latest.tar.gz && tar xfz latest.tar.gz && rm -f latest.tar.gz
 #Create custom /wp directory structure
